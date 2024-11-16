@@ -9,24 +9,20 @@ A simple contact management system that allows users to add, view, edit, and del
 ### **Backend Setup**
 
 1. **Navigate to the backend directory:**  
-   bash
-   cd backend
+   `cd backend`
    
 
 2. **Install dependencies:**  
-   bash
-   npm install
+   `npm install`
    
 
 3. **Create a `.env` file in the `backend` directory with the following content:**  
-   env
-   MONGO_URI=<your-mongodb-connection-string>
-   PORT=5000
+   `MONGO_URI=<your-mongodb-connection-string>`
+   `PORT=5001`
    
 
 4. **Start the backend server:**  
-   bash
-   node app.js
+   `node app.js`
    
 
 ---
@@ -34,19 +30,16 @@ A simple contact management system that allows users to add, view, edit, and del
 ### **Frontend Setup**
 
 1. **Go back to the root directory and navigate to the frontend directory:**  
-   bash
-   cd ..
-   cd frontend
+   `cd ..`
+   `cd frontend`
    
 
 2. **Install dependencies:**  
-   bash
-   npm install
+   `npm install`
    
 
 3. **Start the React app:**  
-   bash
-   npm start
+   `npm start`
      
 
 4. **Access the frontend at:**  
